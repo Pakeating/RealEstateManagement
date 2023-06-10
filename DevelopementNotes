@@ -1,4 +1,0 @@
-Usar patron builder cuando se piden los datos de un inmueble o persona nuevos.
-Usar patron factory para añadir los pisos, mediante una interfaz inmueble o similar, con los metodos precio compra, precio alquiler, etc.
-Para interaccionar con la base de datos y el fichero de guardado, usar patron strategy
-Posteriormente para la interfaz grafica se usara el patron MVC
